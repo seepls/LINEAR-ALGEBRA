@@ -1,0 +1,16 @@
+Current : (I) measured in amperes 
+Resistance :(R) measured in ohms 
+Electrical potential difference : (V) measured in volts 
+
+three basic law govern the flow of current in an electrical circuit :
+
+1.ohm's law 
+2.Kirchoff's voltage law 
+3.Kirchoff's current law 
+
+simple circuits categorized in two kinds 
+1.series 
+2.parallel
+
+
+we form enough number of equation using the laws and solve using linear algebra : ) 
