@@ -1,0 +1,11 @@
+Determinants can be used to find equation of line , curves and surfaces passing through fixed points.
+simple application being :
+1. given two points find equation of line 
+2. given three points , find equation of circle passing through these points
+3. also according to kepler's law asteroids move around sun in ellipse so how many points on the ellipse 
+do u need to find the equation of ellipse?
+
+in three dimensional space how many points needed to define a plane ?? 
+how do we find the equation of plane passing through three points ?
+finding equation of sphere passing through 4 given points
+
