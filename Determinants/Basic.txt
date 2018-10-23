@@ -1,0 +1,13 @@
+  determinant is defined for square matrices .
+  
+  few application of determinants are : 
+  1. cross product of two vectors in R^n can be defined using determinant of n*n matrix
+  2. volume of parallelpiped formed by any 3 non zero vectors in R^3
+  3.used in change of variables in integrals in calculus 
+  4. used to find eigen values of matrix
+  5. determinant of a matrix can tell us about the invertibility of matrix , and number of solution etc .
+  https://www.math.ucdavis.edu/~daddel/linear_algebra_appl/Applications/Determinant/Determinant/node3.html
+  
+  to be continued .
+  
+  
