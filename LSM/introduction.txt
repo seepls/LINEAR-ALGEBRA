@@ -1,0 +1,14 @@
+Least Square approximation :
+in general you can construct a polynomial of degree n that passes through n specified points .
+such a polynomial is called interpolating polynomial .
+
+
+inconsistent system often arise in application.scientists try to find a functional relationship between variables .
+they collect data that usually involve experimental error . and by studying this data or by other findings , they suggest 
+a mathematical model for it 
+" functional relationship between variables "
+because of the measurement error , a polynomial that passes through all given points is not the true representation
+of relationship between variables . a lower degree polynomial may represent the relationship better 
+the variables. 
+
+https://www.math.ucdavis.edu/~daddel/linear_algebra_appl/Applications/least_square/least_square/lab7_f97.html
