@@ -1,1 +1,11 @@
-1.Constructing 
+1.Constructing curves and surfaces passing through specified points 
+2.least square approximation
+3.Traffic flow
+4.Electrical circuits
+5.Determinant
+6.Genetics
+7.Graph theory 
+8.Cryptography
+9.Markov chain
+10.Leonteif Economic model
+
