@@ -1,0 +1,9 @@
+Equation of line : ax+by+c =0 ;
+equation of circle : ax*x + by*y + cx+ dy + e = 0;
+equation of conic section : ax*x + by*y + cx*y + dx+ey+f = 0;
+
+A conic section is an ellipse ,a parabola or hyperbola .( or degenerate form of these curves )
+
+Theorem : a homogeneous linear system of n-equation and n-unknowns has a non trivial solution iff 
+determinant of coefficient matrix is ZERO .
+
