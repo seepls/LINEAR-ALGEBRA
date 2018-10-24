@@ -6,8 +6,16 @@
   3.used in change of variables in integrals in calculus 
   4. used to find eigen values of matrix
   5. determinant of a matrix can tell us about the invertibility of matrix , and number of solution etc .
-  https://www.math.ucdavis.edu/~daddel/linear_algebra_appl/Applications/Determinant/Determinant/node3.html
   
-  to be continued .
+  
+Determinants is a function which as an input accepts  n*n matrix and output is real or complex number that is called determinant of the input Matrix .
+
+1.Inverse of a matrix : transpose of matrix formed by Respective cofactor .
+A. Adj(A) = Det(A) *I3 
+
+A^-1 = Adj(A) / Det(A) ;
+
+and all the rest about determinants : 
+http://mathworld.wolfram.com/topics/Determinants.html
   
   
